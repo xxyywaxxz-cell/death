@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://cp.zyrostore.id:3318",
-  "ratBaseUrl": "http://cp.zyrostore.id:3318",
-  "ratSocketUrl": "http://cp.zyrostore.id:3318",
-  "wsRawUrl": "ws://http://cp.zyrostore.id:3318/ws-raw"
+  "baseUrl": "http://cp.zyrostore.id:3139",
+  "ratBaseUrl": "http://cp.zyrostore.id:3139",
+  "ratSocketUrl": "http://cp.zyrostore.id:3139",
+  "wsRawUrl": "ws://http://cp.zyrostore.id:3139/ws-raw"
 }
